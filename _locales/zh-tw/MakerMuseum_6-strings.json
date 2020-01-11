@@ -1,0 +1,11 @@
+{
+
+  "piano.RGB_Program|block": "七彩燈",
+  "piano.RGB_Program_Close|block": "關閉七彩燈",  
+
+  "piano.Music_Handle|block": "音樂播放|%index",
+  "piano.Touch|block": "音樂觸摸返回",
+  "piano.TouchButton|block" : "音樂按鈕|%value",
+  "piano.PlayPiano|block" : "彈鋼琴|音調 %value"
+  
+}

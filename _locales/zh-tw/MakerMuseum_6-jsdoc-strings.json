@@ -1,0 +1,8 @@
+{
+    "piano.RGB_Program": "使用此方块替换Neopixel中的strip方块",
+    "piano.RGB_Program_Close": "关闭七彩灯",
+    "piano.Music_Handle": "播放音乐",
+    "piano.Touch": "返回触摸的音符键",
+    "piano.TouchButton": "音符键值",
+    "piano.PlayPiano": "设置音调：1为低，2为中，3为高"
+}

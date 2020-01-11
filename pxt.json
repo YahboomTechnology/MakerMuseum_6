@@ -1,0 +1,27 @@
+{
+    "name": "MakerMuseum_6",
+    "version": "1.0.0",
+    "description": "Extension for YahBoom MakerMuseum_6 V1.0.0",
+    "dependencies": {
+        "core": "*",
+        "neopixel": "github:lzty634158/pxt-neopixel",
+        "SuperBit": "github:YahboomTechnology/SuperBit"
+    },
+    "files": [
+        "README.md",
+        "main.blocks",
+        "main.ts",
+        "_locales/zh-cn/MakerMuseum_6-strings.json",
+        "_locales/zh-tw/MakerMuseum_6-strings.json",
+        "_locales/zh-cn/MakerMuseum_6-jsdoc-strings.json",
+        "_locales/zh-tw/MakerMuseum_6-jsdoc-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
